@@ -80,7 +80,7 @@ Faced encoding issues (UTF-8 error), which were fixed by saving the CSV file usi
 
 # Clone the repository
 
-git clone
+Git Clone
 ```bash
 https://github.com/shruti-sinhaa/postgresql-ecommerce-database-design.git
 ```
