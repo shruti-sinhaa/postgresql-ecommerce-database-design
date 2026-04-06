@@ -79,10 +79,8 @@ Faced encoding issues (UTF-8 error), which were fixed by saving the CSV file usi
 - Measured total inventory weight per product category
 
 # Clone the repository
-
-Git Clone
 ```bash
-https://github.com/shruti-sinhaa/postgresql-ecommerce-database-design.git
+git clone https://github.com/shruti-sinhaa/postgresql-ecommerce-database-design.git
 ```
  
 # About
